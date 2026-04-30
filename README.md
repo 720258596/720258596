@@ -2,6 +2,8 @@
 
 
 # 👋 Hey, I'm Kelvin
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Full+Stack+Developer;React+%7C+Node+%7C+Prisma;Building+Real+World+Systems)
+
 
 💻 Full-Stack Developer (React • Node • Prisma)
 🚀 I build real-world systems — not tutorial projects
@@ -29,17 +31,20 @@ I design and build production-ready web applications with a focus on:
 
 ## ⚙️ Tech Stack
 
-**Frontend**
+### Frontend
 
-* React, TypeScript, Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
-**Backend**
+### Backend
 
-* Node.js, Express, Prisma
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 
-**Database**
+### Database
 
-* PostgreSQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
 
 ---
 
@@ -103,6 +108,10 @@ Custom implementation of:
 
 
 ## ⚡ Fun Fact
+
+## 🐍 Contribution Activity
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 I turn ideas into working systems fast ⚡
 
