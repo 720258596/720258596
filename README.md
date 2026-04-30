@@ -50,6 +50,56 @@ I design and build production-ready web applications with a focus on:
 ![Streak](https://streak-stats.demolab.com?user=720258596\&theme=tokyonight)
 
 ---
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ Restaurant System (The Crème Café & Barbecue)
+
+A full-stack restaurant platform built for real-world use.
+
+**Key Features:**
+
+* 🛒 Online ordering system
+* 💳 M-Pesa STK Push integration
+* 📦 Order tracking system
+* 🛠️ Admin dashboard (menu, orders, customers)
+
+**Tech Stack:**
+
+* React + Tailwind (Frontend)
+* Node.js + Express + Prisma (Backend)
+* PostgreSQL (Database)
+
+👉 *Client-ready system with real payment flow*
+
+---
+
+### 🛠️ Admin Dashboard System
+
+A centralized dashboard for managing:
+
+* Orders
+* Customers
+* Menu items
+
+**Highlights:**
+
+* Real-time updates
+* Clean UI/UX
+* Structured backend logic
+
+---
+
+### 💳 Payment Integration (M-Pesa)
+
+Custom implementation of:
+
+* STK Push flow
+* Payment verification
+* Order creation after payment success
+
+👉 Focused on reliability and real-world usage
 
 
 ## ⚡ Fun Fact
